@@ -1,0 +1,12 @@
+import os
+
+TOKEN = os.environ.get("TOKEN")
+NAME = "CodeX"
+server = "https://discord.gg/pndSM8wrmS"
+ch = "https://discord.com/channels/699587669059174461/1271825678710476911"
+OWNER_IDS = [1383706658315960330, 1383706658315960330]
+BotName = "CodeX"
+serverLink = "https://discord.gg/pndSM8wrmS"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1410175490584612894/XvXWWDNeBcIZyE4qVOMAShraG8xlyXCNInpvcs4GigL7mQpkl5SGUHPXHSv4hOIMw0Q4"
+GUILD_JOIN_CHANNEL_ID = 1410180109201313823
+GUILD_REMOVE_CHANNEL_ID = 1385212613134385254
