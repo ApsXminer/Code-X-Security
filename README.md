@@ -3,7 +3,7 @@
 A highly capable and feature-rich Discord bot built using **Python** and the [`discord.py`](https://discordpy.readthedocs.io/) library. Perfect for server moderation, fun, utility, music, and protection.
 
 > ✅ Built with love by the CodeVerse community
-> 🔗 [Join Support Server](https://discord.gg/pndSM8wrmS)
+> 🔗 [Join Support Server](https://discord.gg/5Zucnu4GPs)
 
 ---
 
@@ -96,11 +96,9 @@ python main.py
 
 ## 📌 Additional Info
 
-* Language: **Python 3.10+**
+* Language: **Python 3.10**
 * Library: `discord.py` (Rewrite & Fork supported)
 * Self-hosted: Yes
-* GUI/Panel: Optional in future
-
 ---
 
 ## 💬 Need Help or Want to Contribute?
